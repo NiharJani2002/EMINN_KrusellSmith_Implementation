@@ -370,9 +370,9 @@ When reporting issues, include:
 ```bibtex
 @software{eminn_krusell_smith_2024,
   title={EMINN: Economic Model-Informed Neural Networks for Krusell-Smith Equilibrium},
-  author={[Your Name]},
+  author={[NIHAR MAHESH JANI]},
   year={2024},
-  url={https://github.com/yourusername/eminn-krusell-smith},
+  url={https://github.com/NiharJani2002/EMINN_KrusellSmith_Implementation},
   note={Implementation of continuous-time heterogeneous agent models using physics-informed neural networks}
 }
 ```
